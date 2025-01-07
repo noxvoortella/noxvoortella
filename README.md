@@ -8,7 +8,7 @@
 
 🛠️ My toolkit includes OpenAI, Python, Streamlit, AWS, Snowflake, SQL, Zendesk, ServiceNow, Salesforce, Jira, Figma, Anaplan, and Pigment, plus expertise in AI/ML projects that automate and elevate operations.
 
-✈️ Outside work, I'm passionate about volunteering for Meals on Wheels and exploring film, music, and aviation. I'm pursuing my private pilot license and channeling focus, precision, and determination into the skies. It’s a constant reminder that growth often comes from embracing challenges and trusting the process. I bring this same drive and curiosity to my work, embracing challenges that demand experimentation, collaboration, and measurable outcomes.
+✈️ Outside work, I volunteer for Meals on Wheels, explore film and music, and pursue my private pilot license—channeling curiosity and determination into new heights. I bring this same drive and curiosity to my work, embracing challenges that demand experimentation, collaboration, and measurable outcomes.
 
 Let’s connect and create solutions that make a difference! 🌟
 
