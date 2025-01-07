@@ -6,11 +6,11 @@
 
 🤗 I believe in building teams and products that inspire. I've led initiatives to streamline onboarding, enhance compliance, and drive intelligent automation for Global Operations, always keeping users at the center of the journey.
 
-🛠️ My toolkit includes cross-functional collaboration, OKR alignment, and product strategies that create value through personalization, operational evolution, and predictive insights. My expertise spans tools like AWS, Anaplan, Pigment, Zendesk, ServiceNow and Salesforce, plus leading projects that harness the power of AI/ML to automate and elevate.
+🛠️ My toolkit includes cross-functional collaboration, OKR alignment, and product strategies that create value through personalization, operational evolution, and predictive insights. My expertise spans tools like OpenAI, Python, Streamlit, AWS, Snowflake, SQL, Zendesk, ServiceNow, Salesforce, Jira, Figma, Anaplan, and Pigment, plus leading projects that harness the power of AI/ML to automate and elevate.
 
-✈️ Outside work, I'm pursuing my private pilot license—channeling focus, precision, and determination into the skies. It’s a constant reminder that growth often comes from embracing challenges and trusting the process.
+✈️ Outside work, I'm passionate about volunteering for Meals on Wheels and exploring film, music, and aviation. I'm pursuing my private pilot license—channeling focus, precision, and determination into the skies. It’s a constant reminder that growth often comes from embracing challenges and trusting the process. I bring this same drive and curiosity to my work, embracing challenges that demand experimentation, collaboration, and measurable outcomes.
 
-Let’s connect and create solutions that make a difference. Together, we can redefine what’s possible! 🌟
+Let’s connect and create solutions that make a difference! 🌟
 
 ## Dynamic Product Ecosystem Approach
 Curious about how I approach product strategy and collaboration? Check out the framework for my approach:
