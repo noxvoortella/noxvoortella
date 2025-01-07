@@ -1,9 +1,38 @@
 ## Hey there, I'm Nox 👋
 
-I'm passionate about AI/ML product management and love creating impactful solutions. 
+🚀 I’m passionate about building more intelligent products, driving better decisions, and delivering exceptional outcomes. Empathy and a passion for experimentation have driven my journey across industries like Cloud Communications, SaaS, Supply Chain, and Retail. My mission is to create tools that empower people to do their best work, optimize operations, and elevate customer experiences. 
+
+💡 As a Product Leader, I thrive at the intersection of technology and customer impact, serving both internal and external customers. From designing scalable ML predictive models to championing GenAI-powered personalization, I turn ambiguity into meaningful strategies that align technology with business outcomes. My diverse experiences—detailed in my resume—are unified by a focus on creating measurable impact and transforming complexity into clarity.
+
+🌟 I believe in building teams and products that inspire. I've led initiatives to streamline onboarding, enhance compliance, and drive intelligent automation for Global Operations, always keeping users at the center of the journey.
+
+🛠️ My toolkit includes cross-functional collaboration, OKR alignment, and product strategies that create value through personalization, operational evolution, and predictive insights. My expertise spans tools like AWS, Anaplan, Pigment, Zendesk, ServiceNow and Salesforce, plus leading projects that harness the power of AI/ML to automate and elevate.
+
+✈️ Outside work, I'm pursuing my private pilot license—channeling focus, precision, and determination into the skies. It’s a constant reminder that growth often comes from embracing challenges and trusting the process.
+
+Let’s connect and create solutions that make a difference. Together, we can redefine what’s possible! 🌟
+
+## Dynamic Product Ecosystem
+Curious about how I approach product strategy? Check out my framework:  
+📄 [Dynamic Product Ecosystem](https://github.com/NoxVoortella/Dynamic-Product-Ecosystem/blob/main/DynamicProductEcosystem.pdf)
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NoxVoortella&show_icons=true&theme=tokyonight)
 
 ## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NoxVoortella&layout=compact&theme=radical)
+
+<!--
+**noxvoortella/noxvoortella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
