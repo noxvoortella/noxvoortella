@@ -1,4 +1,4 @@
-# ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=450&size=30&duration=3000&pause=1000&color=006600&width=435&lines=Hey+there%2C+I'm+Nox+%F0%9F%91%8B)
+# ![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Code&weight=450&size=30&duration=3000&pause=1000&color=006600&width=435&lines=Hey+there%2C+I'm+Nox+%F0%9F%91%8B)
 
 🚀 I’m passionate about building more intelligent products, driving better decisions, and delivering exceptional outcomes. Empathy and a passion for experimentation have driven my journey across industries like Cloud Communications, SaaS, Supply Chain, and Retail. My mission is to create tools that empower people to do their best work, optimize operations, and elevate customer experiences. 
 
