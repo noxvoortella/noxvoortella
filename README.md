@@ -4,7 +4,7 @@
 
 💡 As a Product Leader, I thrive at the intersection of technology and customer impact, serving both internal and external customers. From designing scalable ML predictive models to championing GenAI-powered personalization, I turn ambiguity into meaningful strategies that align technology with business outcomes. My diverse experiences—detailed in my resume—are unified by a focus on creating measurable impact and transforming complexity into clarity.
 
-🌟 I believe in building teams and products that inspire. I've led initiatives to streamline onboarding, enhance compliance, and drive intelligent automation for Global Operations, always keeping users at the center of the journey.
+🤗 I believe in building teams and products that inspire. I've led initiatives to streamline onboarding, enhance compliance, and drive intelligent automation for Global Operations, always keeping users at the center of the journey.
 
 🛠️ My toolkit includes cross-functional collaboration, OKR alignment, and product strategies that create value through personalization, operational evolution, and predictive insights. My expertise spans tools like AWS, Anaplan, Pigment, Zendesk, ServiceNow and Salesforce, plus leading projects that harness the power of AI/ML to automate and elevate.
 
