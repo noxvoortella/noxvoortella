@@ -14,7 +14,7 @@ Let’s connect and create solutions that make a difference. Together, we can re
 
 ## Dynamic Product Ecosystem
 Curious about how I approach product strategy? Check out my framework:
-[Dynamic Product Ecosystem](https://github.com/USERNAME/USERNAME/blob/main/DynamicProductEcosystem.pdf)
+[Dynamic Product Ecosystem](https://github.com/noxvoortella/Dynamic-Product-Ecosystem.git)
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NoxVoortella&show_icons=true&theme=tokyonight)
