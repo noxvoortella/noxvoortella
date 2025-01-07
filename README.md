@@ -1,4 +1,4 @@
-# ![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins+Code&weight=500&size=30&duration=3000&pause=1000&color=009F00FF&width=435&lines=Hey+there%2C+I'm+Nox+%F0%9F%91%8B)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=30&duration=3000&pause=1000&color=009F00&width=435&lines=Hey+there%2C+I'm+Nox+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 🚀 I’m passionate about building intelligent products, driving better decisions, and delivering exceptional outcomes. Empathy and a passion for experimentation have driven my journey across industries like Cloud Communications, SaaS, Supply Chain, and Retail, where I've created tools that empower people, optimize operations, and elevate customer experiences.
 
