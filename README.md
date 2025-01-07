@@ -13,8 +13,8 @@
 Let’s connect and create solutions that make a difference. Together, we can redefine what’s possible! 🌟
 
 ## Dynamic Product Ecosystem
-Curious about how I approach product strategy? Check out my framework:  
-📄 [Dynamic Product Ecosystem](https://github.com/NoxVoortella/Dynamic-Product-Ecosystem/blob/main/DynamicProductEcosystem.pdf)
+Curious about how I approach product strategy? Check out my framework:
+[Dynamic Product Ecosystem](https://github.com/USERNAME/USERNAME/blob/main/DynamicProductEcosystem.pdf)
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NoxVoortella&show_icons=true&theme=tokyonight)
