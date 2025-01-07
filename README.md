@@ -12,8 +12,8 @@
 
 Let’s connect and create solutions that make a difference. Together, we can redefine what’s possible! 🌟
 
-## Dynamic Product Ecosystem
-Curious about how I approach product strategy? Check out my framework:
+## Dynamic Product Ecosystem Approach
+Curious about how I approach product strategy and collaboration? Check out the framework for my approach:
 [Dynamic Product Ecosystem](https://github.com/noxvoortella/Dynamic-Product-Ecosystem.git)
 
 ## GitHub Stats
