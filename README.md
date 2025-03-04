@@ -1,18 +1,18 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=30&duration=3000&pause=1000&color=009F00&width=435&lines=Hey+there%2C+I'm+Nox+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-**🚀 Strategic Product Leader | AI & ML-Driven Innovation | Builder of Intelligent Experiences**
+**🚀 Strategic Product Leader | AI & ML-Driven Experimentation | Builder of Intelligent Experiences**
 
 I’m a strategic product manager transforming operations and user experiences with AI & ML technologies. By integrating LLMs, GenAI, and adaptive automation, I develop solutions that drive measurable impact—enabling real-time decision-making, predictive insights, and hyper-personalized experiences.
 
-As the **Head of Product at Shane Collective**, I’m shaping our product vision, roadmap, and execution—building technology that scales, fosters collaboration, and creates meaningful impact. Throughout my career, I’ve worked at the intersection of strategy, execution, and problem-solving, balancing long-term vision with rapid experimentation to deliver scalable, customer-centric solutions.
+As **Head of Product at [Shane Collective](https://getshane.io)**, I’m shaping our product vision, roadmap, and execution—building technology that scales, fosters collaboration, and creates meaningful impact. Throughout my career, I’ve worked at the intersection of strategy, execution, and problem-solving, balancing long-term vision with rapid experimentation to deliver scalable, user-centric solutions.
 
-❤️‍🔥** Passionate about**
-	•	AI/ML-powered automation & personalization
-	•	Building intelligent, user-first products
-	•	Driving data-driven decisions & operational transformation
-	•	Empowering teams to focus on high-impact work
+❤️‍🔥**Passionate about** 
+- AI/ML-powered automation & personalization
+- Building intelligent, user-first products
+- Driving data-driven decisions & operational transformation
+- Empowering teams to focus on high-impact work
 
-🛠️ **Toolkit:** OpenAI, Python, Streamlit, AWS, Snowflake, SQL, Zendesk, ServiceNow, Salesforce, Jira, Figma, Anaplan, Pigment
+🛠️ **Toolkit:** OpenAI, Python, Streamlit, AWS, Snowflake, SQL, Zendesk, ServiceNow, Salesforce, Jira, Figma, Miro, Anaplan, Pigment, and more. 
 
 🌟 **Beyond work:** I volunteer with Meals on Wheels, explore film & music, and am pursuing my private pilot license—always channeling curiosity into new heights.
 
