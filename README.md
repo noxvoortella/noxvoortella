@@ -1,16 +1,22 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=30&duration=3000&pause=1000&color=009F00&width=435&lines=Hey+there%2C+I'm+Nox+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-🚀 I’m passionate about building intelligent products, driving better decisions, and delivering exceptional outcomes. Empathy and a passion for experimentation have driven my journey across industries like Cloud Communications, SaaS, Supply Chain, and Retail, where I've created tools that empower people, optimize operations, and elevate customer experiences.
+**🚀 Strategic Product Leader | AI & ML-Driven Innovation | Builder of Intelligent Experiences**
 
-💡 As a Product Leader, I thrive at the intersection of technology and customer impact, serving both internal and external customers. From scalable ML predictive models to GenAI-powered personalization, I turn ambiguity into meaningful strategies aligned with business outcomes. My work is unified by focusing on measurable impact and transforming complexity into clarity.
+I’m a strategic product manager transforming operations and user experiences with AI & ML technologies. By integrating LLMs, GenAI, and adaptive automation, I develop solutions that drive measurable impact—enabling real-time decision-making, predictive insights, and hyper-personalized experiences.
 
-🤗 I build, support, and inspire teams to deliver impactful solutions. I've led initiatives to streamline onboarding, enhance compliance, and drive intelligent automation, always keeping users at the center of the journey.
+As the **Head of Product at Shane Collective**, I’m shaping our product vision, roadmap, and execution—building technology that scales, fosters collaboration, and creates meaningful impact. Throughout my career, I’ve worked at the intersection of strategy, execution, and problem-solving, balancing long-term vision with rapid experimentation to deliver scalable, customer-centric solutions.
 
-🛠️ My toolkit includes OpenAI, Python, Streamlit, AWS, Snowflake, SQL, Zendesk, ServiceNow, Salesforce, Jira, Figma, Anaplan, and Pigment, plus expertise in AI/ML projects that automate and elevate operations.
+❤️‍🔥** Passionate about**
+	•	AI/ML-powered automation & personalization
+	•	Building intelligent, user-first products
+	•	Driving data-driven decisions & operational transformation
+	•	Empowering teams to focus on high-impact work
 
-❤️‍🔥 Outside work, I volunteer for Meals on Wheels, explore film and music, and pursue my private pilot license—channeling curiosity and determination into new heights. I bring this same drive and curiosity to my work, embracing challenges that demand experimentation, collaboration, and measurable outcomes.
+🛠️ **Toolkit:** OpenAI, Python, Streamlit, AWS, Snowflake, SQL, Zendesk, ServiceNow, Salesforce, Jira, Figma, Anaplan, Pigment
 
-Let’s connect and create solutions that make a difference! 🌟
+🌟 **Beyond work:** I volunteer with Meals on Wheels, explore film & music, and am pursuing my private pilot license—always channeling curiosity into new heights.
+
+Let’s connect, build, and create solutions that make a difference! ✈️🚀🎶
 
 ## Dynamic Product Ecosystem Approach
 Curious about how I approach product strategy and collaboration? Check out the framework for my approach:
