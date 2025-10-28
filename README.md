@@ -4,7 +4,7 @@
 
 I'm the VP of Product Strategy & Operations at **[Neurologyca](https://www.neurologyca.com/)** and advisor at **[Shane Collective](https://getshane.io)**—wearing every hat that needs wearing. On any given day, I'm architecting product strategy, leading engineering execution, forging strategic partnerships with key players in the ecosystem, designing systems, building teams, and creating the operational infrastructure that turns early-stage chaos into disciplined growth.
 
-I specialize in AI/ML product development and cross-functional leadership, building the frameworks and foundations that help startups move fast without breaking. My work spans 0-to-1 product definition, GTM strategy, business systems, and organizational design—essentially operating as product leader, technical architect, and operational backbone rolled into one.
+I specialize in AI/ML product development and cross-functional leadership, building the frameworks and foundations that help companies move fast without breaking. My work spans 0-to-1 product definition, GTM strategy, business systems, and organizational design—essentially operating as product leader, technical architect, and operational backbone rolled into one.
 
 
 **What I build** 
