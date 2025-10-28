@@ -15,9 +15,9 @@ I specialize in AI/ML product development and cross-functional leadership, build
 
 **Stack:** Python, Claude, OpenAI, AWS, Snowflake, Streamlit, Flutter, Figma, Jira, Salesforce, Anaplan, Pigment, plus whatever tool solves the problem. 
 
-**Beyond work:** I volunteer with Meals on Wheels, explore film & music, and am pursuing my private pilot license—always channeling curiosity into new heights.
+**Beyond work:** volunteering with local organizations, pursuing my private pilot license, building community through gaming with friends across the globe, and exploring film and music—always channeling curiosity into new heights!
 
-Let’s connect, build, and create solutions that make a difference! ✈️🎶🙌
+Let’s connect, build, and create solutions that make a difference! ✈️🎮🎶🙌
 
 ## Dynamic Product Ecosystem Approach
 Curious about how I approach product strategy and collaboration? Check out the framework for my approach:
