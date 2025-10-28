@@ -1,22 +1,23 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=30&duration=3000&pause=1000&color=009F00&width=435&lines=Hey+there%2C+I'm+Nox+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-**🚀 Strategic Product Leader | AI & ML-Driven Experimentation | Builder of Intelligent Experiences**
+**Startup operator and product leader building companies from zero to scale**
 
-I’m a strategic product manager transforming operations and user experiences with AI & ML technologies. By integrating LLMs, GenAI, and adaptive automation, I develop solutions that drive measurable impact—enabling real-time decision-making, predictive insights, and hyper-personalized experiences.
+I'm the VP of Product Strategy & Operations at **[Neurologyca](https://www.neurologyca.com/)** and advisor at **[Shane Collective](https://getshane.io)**—wearing every hat that needs wearing. On any given day, I'm architecting product strategy, leading engineering execution, forging strategic partnerships with key players in the ecosystem, designing systems, building teams, and creating the operational infrastructure that turns early-stage chaos into disciplined growth.
 
-As **Head of Product at [Shane Collective](https://getshane.io)**, I’m shaping our product vision, roadmap, and execution—building technology that scales, fosters collaboration, and creates meaningful impact. Throughout my career, I’ve worked at the intersection of strategy, execution, and problem-solving, balancing long-term vision with rapid experimentation to deliver scalable, user-centric solutions.
+I specialize in AI/ML product development and cross-functional leadership, building the frameworks and foundations that help startups move fast without breaking. My work spans 0-to-1 product definition, GTM strategy, business systems, and organizational design—essentially operating as product leader, technical architect, and operational backbone rolled into one.
 
-❤️‍🔥**Passionate about** 
-- AI/ML-powered automation & personalization
-- Building intelligent, user-first products
-- Driving data-driven decisions & operational transformation
-- Empowering teams to focus on high-impact work
 
-🛠️ **Toolkit:** OpenAI, Python, Streamlit, AWS, Snowflake, SQL, Zendesk, ServiceNow, Salesforce, Jira, Figma, Miro, Anaplan, Pigment, and more. 
+**What I build** 
+- AI-native products and intelligent automation that create real leverage
+- Operational systems that scale from seed stage to enterprise
+- Cross-functional teams and processes that ship quickly and sustainably
+- The connective tissue between product, engineering, ops, and business strategy
 
-🌟 **Beyond work:** I volunteer with Meals on Wheels, explore film & music, and am pursuing my private pilot license—always channeling curiosity into new heights.
+**Stack:** Python, Claude, OpenAI, AWS, Snowflake, Streamlit, Flutter, Figma, Jira, Salesforce, Anaplan, Pigment, plus whatever tool solves the problem. 
 
-Let’s connect, build, and create solutions that make a difference! ✈️🚀🎶
+**Beyond work:** I volunteer with Meals on Wheels, explore film & music, and am pursuing my private pilot license—always channeling curiosity into new heights.
+
+Let’s connect, build, and create solutions that make a difference! ✈️🎶🙌
 
 ## Dynamic Product Ecosystem Approach
 Curious about how I approach product strategy and collaboration? Check out the framework for my approach:
