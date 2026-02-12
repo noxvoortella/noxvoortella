@@ -1,8 +1,8 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=30&duration=3000&pause=1000&color=009F00&width=435&lines=Hey+there%2C+I'm+Nox+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-**Startup operator and product leader building companies from zero to scale**
+**Startup operator and product leader building scalable AI systems and the teams behind them**
 
-I'm the VP of Product Strategy & Operations at **[Neurologyca](https://www.neurologyca.com/)** and advisor at **[Shane Collective](https://getshane.io)**—wearing every hat that needs wearing. On any given day, I'm architecting product strategy, leading engineering execution, forging strategic partnerships with key players in the ecosystem, designing systems, building teams, and creating the operational infrastructure that turns early-stage chaos into disciplined growth.
+I’m a startup operator and product leader, currently at **[Shane Collective](https://getshane.io)** and working with early-stage teams to take products from zero to scale. On any given day, I’m architecting product strategy, leading engineering execution, forging strategic partnerships, designing systems, building teams, and creating the operational infrastructure that turns early-stage chaos into disciplined growth.
 
 I specialize in AI/ML product development and cross-functional leadership, building the frameworks and foundations that help companies move fast without breaking. My work spans 0-to-1 product definition, GTM strategy, business systems, and organizational design—essentially operating as product leader, technical architect, and operational backbone rolled into one.
 
