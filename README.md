@@ -21,12 +21,6 @@ I specialize in AI/ML product development and cross-functional leadership, build
 
 Let’s connect, build, and create solutions that make a difference! ✈️🎮🎶🙌
 
-## Dynamic Product Ecosystem Approach
-Curious about how I approach product strategy and collaboration? Check out the framework for my approach:
-
-🔄 [Dynamic Product Ecosystem Approach](https://github.com/noxvoortella/Dynamic-Product-Ecosystem.git)
-
-
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NoxVoortella&show_icons=true&theme=tokyonight)
 
