@@ -21,16 +21,17 @@ I specialize in AI/ML product development and cross-functional leadership, build
 
 Let’s connect, build, and create solutions that make a difference! ✈️🎮🎶🙌
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NoxVoortella&show_icons=true&theme=tokyonight)
-
-## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NoxVoortella&layout=compact&theme=radical)
 
 <!--
 **noxvoortella/noxvoortella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NoxVoortella&show_icons=true&theme=tokyonight)
+
+## Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NoxVoortella&layout=compact&theme=radical)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
