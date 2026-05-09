@@ -2,7 +2,7 @@
 
 **Founder, startup operator, and product leader building scalable AI systems and the teams behind them**
 
-I recently founded **[Clearpane]([https://getshane.io](https://getclearpane.com/)**, the observability layer for revenue operations. We help revenue organizations understand why their revenue engine is breaking, not just that something broke.
+I recently founded **[Clearpane](https://getclearpane.com/)**, the observability layer for revenue operations. We help revenue organizations understand why their revenue engine is breaking, not just that something broke.
  
 I got here through years of operating inside revenue systems, AI product orgs, supply chain management orgs, and enterprise consulting. I also lead product (fractionally) at **[Shane Collective](https://getshane.io)**, a travel and safety platform helping LGBTQIA+ folks navigate the world with more confidence. 💚 
 
