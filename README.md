@@ -18,8 +18,10 @@ I specialize in AI/ML product development and cross-functional leadership, build
 **Stack:** Python, Claude, OpenAI, TensorFlow, PyTorch, Hugging Face | AWS (SageMaker, S3, RDS, DynamoDB, Glue, Transcribe), Snowflake, Databricks, Tableau | Figma, Miro, Notion, Jira, Confluence, Slack | Salesforce, Anaplan, Pigment, Airtable—plus whatever tools solve the problem.
 
 **Beyond work:** volunteering with local organizations, pursuing my private pilot license, building community through gaming with friends across the globe, and exploring film and music—always channeling curiosity into new heights!
+<br><br>
 
-Let’s connect, build, and create solutions that make a difference! ✈️🎮🎶🙌
+<div> Check out my work GitHub for other projects:<br> <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="22" align="center" /> <a href="https://github.com/nox-v">github.com/nox-v</a> </div>
+
 
 
 <!--
